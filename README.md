@@ -20,3 +20,22 @@
 * List of orders and the products that are in each order (for providers only)
 
 ## :wrench: Technologies
+* Typescript
+* Git
+* Node.js
+* Express.js
+* Babel
+* CORS
+* Bcrypt
+* JsonWebToken
+* Postgres and MongoDB with TypeORM
+* Redis
+* Rate Limiter
+* TSyringe
+* Multer
+* date-fns
+* Docker
+* AWS S3
+* ESLint and Pretier
+* Joi
+* React-Native
