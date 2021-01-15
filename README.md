@@ -22,6 +22,7 @@
 ## :wrench: Technologies
 * Typescript
 * Git
+* GitHub Actions
 * Node.js
 * Express.js
 * Babel
