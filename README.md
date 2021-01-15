@@ -39,3 +39,11 @@
 * ESLint and Pretier
 * Joi
 * React-Native
+
+## Design Patterns
+* SOLID
+* Factory
+* Decorator
+* Dependency Injection
+* Builder
+* Singleton
