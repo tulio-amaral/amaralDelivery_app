@@ -40,7 +40,7 @@
 * Joi
 * React-Native
 
-## Design Patterns
+## 📐 Design Patterns
 * SOLID
 * Factory
 * Decorator
@@ -48,7 +48,7 @@
 * Builder
 * Singleton
 
-## Methodologies
+## 👨‍🏫 Methodologies
 * TDD
 * Clean Architecture
 * DDD
