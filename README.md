@@ -47,3 +47,13 @@
 * Dependency Injection
 * Builder
 * Singleton
+
+## Methodologies
+* TDD
+* Clean Architecture
+* DDD
+* Modular Design
+* Use Cases
+* Continuous Integration
+* Continuous Delivery
+* Continuous Deployment
