@@ -1,4 +1,4 @@
-# amaralDelivery_app
+# Amaral Deliver App
 
 
 <p align="center">
@@ -18,3 +18,5 @@
 * Add products to favorites
 * Order a list of products and select your address and schedule the delivery time and how you want o pay
 * List of orders and the products that are in each order (for providers only)
+
+## :wrench: Technologies
