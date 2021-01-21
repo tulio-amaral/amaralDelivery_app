@@ -25,6 +25,7 @@
 * GitHub Actions
 * Node.js
 * Express.js
+* nginx
 * Babel
 * CORS
 * Bcrypt
