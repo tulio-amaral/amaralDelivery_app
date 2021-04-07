@@ -1,4 +1,4 @@
-# Amaral Deliver App
+# Amaral Delivery App
 
 
 <p align="center">
@@ -30,7 +30,8 @@
 * CORS
 * Bcrypt
 * JsonWebToken
-* Postgres and MongoDB with TypeORM
+* Postgres with TypeORM
+* MongoDB
 * Redis
 * Rate Limiter
 * TSyringe
